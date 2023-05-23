@@ -1,0 +1,10 @@
+{
+  "name": "Prime Runner",
+  "description": "Add prime-run option to application context menu",
+  "gettext-domain": "gnome-shell-extension-prime-runner",
+  "settings-schema": "org.gnome.shell.extensions.prime-runner",
+  "uuid": "prime-runner@paologiua",
+  "shell-version": ["44"],
+  "version": 1,
+  "url": "https://github.com/paologiua"
+}
